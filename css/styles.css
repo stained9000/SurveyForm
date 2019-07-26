@@ -1,0 +1,92 @@
+body {
+  background: #ADDDCE;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+article {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.formRow {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.labels {
+  width: 40%;
+  text-align: right;
+  margin-top: 10px;
+}
+
+.label-input {
+  padding: 5px;
+}
+
+.label-ul {
+  margin-top: 0;
+}
+
+
+.rightTab {
+  width: 40%;
+  text-align: left;
+
+}
+
+.radio {
+  display: block;
+  text-align: left;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  margin-left: 10px;
+}
+
+.input-field {
+  height: 20px;
+  width: 280px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #70AE98;
+  border-radius: 2px;
+}
+
+.dropdown {
+  height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #70AE98;
+  background-color: #70AE98;
+  color: white;
+  border-radius: 2px;
+}
+
+textarea {
+  width: 280px;
+  height: 160px;
+}
+
+button {
+  height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #70AE98;
+  background-color: #70AE98;
+  color: white;
+  border-radius: 2px;
+}
